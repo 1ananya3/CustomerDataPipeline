@@ -65,7 +65,7 @@ curl http://localhost:8000/api/customers/CUST001
 
 FastAPI provides auto-generated docs:
 - Swagger UI: http://localhost:8000/docs
-- ReDoc: http://localhost:8000/redoc
+
 
 ## Project Structure
 
